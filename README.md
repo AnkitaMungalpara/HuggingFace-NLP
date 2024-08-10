@@ -11,3 +11,5 @@ This repository provides a comprehensive guide to using 🤗 Transformers.
 - [02. Transformer Pipelines: Behind the Scenes](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/01_Behind_the_scenes_pipeline.ipynb)
   
 - [03. Models and Tokenizers](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/02_Transformers_Models_and_Tokenizers.ipynb)
+
+- [04. Handling Multiple Sequences](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/03_Handling_Multiple_Sequences_Transformers.ipynb)
