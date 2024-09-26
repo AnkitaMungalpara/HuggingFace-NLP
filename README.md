@@ -17,3 +17,5 @@ This repository provides a comprehensive guide to using 🤗 Transformers.
 - [05. Processing Large Data](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/04_Processing_Data_Hugging_Face_Transformers.ipynb)
   
 - [06. Full Training with GPU and Accelerator](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/06_Full_Training_HuggingFace_Transformers.ipynb)
+
+- [07. Datasets in HuggingFace](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/07_Datasets_in_HuggingFace.ipynb)
