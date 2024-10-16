@@ -19,3 +19,9 @@ This repository provides a comprehensive guide to using 🤗 Transformers.
 - [06. Full Training with GPU and Accelerator](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/06_Full_Training_HuggingFace_Transformers.ipynb)
 
 - [07. Datasets in HuggingFace](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/07_Datasets_in_HuggingFace.ipynb)
+
+### Module 2: Fundamentals of 🤗 Datasets and Tokenizers for NLP
+
+This module covers the foundational concepts of working with 🤗 Datasets and 🤗 Tokenizers, preparing to independently solve common NLP tasks.
+
+- [08. Semantic Search with FAISS](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/08_Semantic_Search_with_FAISS.ipynb)
