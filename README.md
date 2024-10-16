@@ -38,27 +38,22 @@ This module covers the foundational concepts of working with ðŸ¤— Datasets and ð
       </thead>
       <tbody>
           <tr>
-              <td>0.1 Using embeddings for semantic search</td>
+              <td>Using embeddings for semantic search</td>
               <td>Introduction to building a semantic search engine using embeddings.</td>
               <td><a href="https://huggingface.co/docs/transformers/index">Transformers Documentation</a></td>
           </tr>
           <tr>
-              <td>0.2 Loading and Preparing Dataset</td>
+              <td>Loading and Preparing Dataset</td>
               <td>Loading the GitHub Issues dataset and filtering out pull requests to focus on issues with comments.</td>
               <td><a href="https://huggingface.co/datasets/lewtun/github-issues">GitHub Issues Dataset</a></td>
           </tr>
           <tr>
-              <td>0.2.1 Dataset Information</td>
-              <td>Details about the GitHub Issues dataset, including its name, repository, use cases, domain, and language.</td>
-              <td><a href="https://huggingface.co/datasets/lewtun/github-issues/viewer">GitHub Issues Dataset Info</a></td>
-          </tr>
-          <tr>
-              <td>0.3 Creating Text Embeddings</td>
+              <td>Creating Text Embeddings</td>
               <td>Using the sentence-transformers library to create embeddings for text data, with a focus on pooling techniques.</td>
               <td><a href="https://www.sbert.net/">Sentence-Transformers Documentation</a></td>
           </tr>
           <tr>
-              <td>0.4 Using FAISS for Efficient Similarity Search</td>
+              <td>Using FAISS for Efficient Similarity Search</td>
               <td>Implementing FAISS to create an index for fast similarity searches on the embeddings and conducting nearest neighbor searches.</td>
               <td><a href="https://faiss.ai/">FAISS Documentation</a></td>
           </tr>
