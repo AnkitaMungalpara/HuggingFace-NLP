@@ -6,6 +6,8 @@ This repository provides a comprehensive guide to using 🤗 Transformers.
 
 ### Module 1: Fundamentals of 🤗 Transformers: From Basics to Fine-Tuning
 
+Learn the fundamental concepts of the 🤗 Transformers library, including how Transformer models function. By the end of this section, you’ll know how to utilize a model from the Hugging Face Hub, fine-tune it on a dataset, and share your results.
+
 - [01. Introduction to Transformers Pipeline](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/00_Transformers_Pipeline_Introduction.ipynb)
   
 - [02. Transformer Pipelines: Behind the Scenes](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/01_Behind_the_scenes_pipeline.ipynb)
@@ -62,3 +64,9 @@ This module covers the foundational concepts of working with 🤗 Datasets and �
           </tr>
       </tbody>
   </table>
+
+  <!--
+
+Explore applications of Transformer models in speech processing and computer vision. This section will prepare you to build and share model demos and optimize them for production environments, enabling you to apply 🤗 Transformers to various machine learning challenges.
+
+-->
