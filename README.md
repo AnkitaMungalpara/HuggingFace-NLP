@@ -43,12 +43,12 @@ This module covers the foundational concepts of working with ðŸ¤— Datasets and ð
           <tr>
               <td>0.2 Loading and Preparing Dataset</td>
               <td>Loading the GitHub Issues dataset and filtering out pull requests to focus on issues with comments.</td>
-              <td><a href="https://huggingface.co/datasets/github">GitHub Issues Dataset</a></td>
+              <td><a href="https://huggingface.co/datasets/lewtun/github-issues">GitHub Issues Dataset</a></td>
           </tr>
           <tr>
               <td>0.2.1 Dataset Information</td>
               <td>Details about the GitHub Issues dataset, including its name, repository, use cases, domain, and language.</td>
-              <td><a href="https://huggingface.co/datasets/github">GitHub Issues Dataset Info</a></td>
+              <td><a href="https://huggingface.co/datasets/lewtun/github-issues/viewer">GitHub Issues Dataset Info</a></td>
           </tr>
           <tr>
               <td>0.3 Creating Text Embeddings</td>
