@@ -24,4 +24,4 @@ This repository provides a comprehensive guide to using 🤗 Transformers.
 
 This module covers the foundational concepts of working with 🤗 Datasets and 🤗 Tokenizers, preparing to independently solve common NLP tasks.
 
-- [08. Semantic Search with FAISS](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/08_Semantic_Search_with_FAISS.ipynb)
+- [01. Semantic Search with FAISS](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/08_Semantic_Search_with_FAISS.ipynb)
