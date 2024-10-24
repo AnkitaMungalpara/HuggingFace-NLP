@@ -16,17 +16,18 @@ Learn the fundamental concepts of the 🤗 Transformers library, including how T
 
 - [04. Handling Multiple Sequences](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/03_Handling_Multiple_Sequences_Transformers.ipynb)
 
-- [05. Processing Large Data](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/04_Processing_Data_Hugging_Face_Transformers.ipynb)
-  
-- [06. Full Training with GPU and Accelerator](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/06_Full_Training_HuggingFace_Transformers.ipynb)
-
-- [07. Datasets in HuggingFace](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/07_Datasets_in_HuggingFace.ipynb)
 
 ### Module 2: Fundamentals of 🤗 Datasets and Tokenizers for NLP
 
 This module covers the foundational concepts of working with 🤗 Datasets and 🤗 Tokenizers, preparing to independently solve common NLP tasks.
 
-- [01. Semantic Search with FAISS](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/08_Semantic_Search_with_FAISS.ipynb)
+- [01. Processing Large Data](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/04_Processing_Data_Hugging_Face_Transformers.ipynb)
+  
+- [02. Full Training with GPU and Accelerator](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/06_Full_Training_HuggingFace_Transformers.ipynb)
+
+- [03. Datasets in HuggingFace](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/07_Datasets_in_HuggingFace.ipynb)
+
+- [04. Semantic Search with FAISS](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/08_Semantic_Search_with_FAISS.ipynb)
 
   <table>
       <thead>
