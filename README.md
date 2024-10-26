@@ -60,7 +60,8 @@ This module covers the foundational concepts of working with ðŸ¤— Datasets and ð
           </tr>
       </tbody>
   </table>
-
+  
+- [05. Training New Tokenizer](https://github.com/AnkitaMungalpara/HuggingFace-NLP/blob/main/09_Training_new_tokenizer.ipynb)
 
   <!--
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnkitaMungalpara/HuggingFace-NLP/blob/main/08_Semantic_Search_with_FAISS.ipynb)
