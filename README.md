@@ -61,7 +61,9 @@ This module covers the foundational concepts of working with 🤗 Datasets and �
       </tbody>
   </table>
 
+
   <!--
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnkitaMungalpara/HuggingFace-NLP/blob/main/08_Semantic_Search_with_FAISS.ipynb)
 
 Explore applications of Transformer models in speech processing and computer vision. This section will prepare you to build and share model demos and optimize them for production environments, enabling you to apply 🤗 Transformers to various machine learning challenges.
 
